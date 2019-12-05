@@ -3,10 +3,22 @@ This is a very small Flask application that can be used to retrieve links from w
 
 ## Getting Started
 1. Pull this repository
-2. Create virtual environment -- $ python3 -m venv venv
-3. Activate virtual environment -- $ . venv/bin/activate
-4. Install requirements -- $ pip install -r requirements.txt
-5. Run Flask -- $ flask run
+2. Create virtual environment
+```
+$ python3 -m venv venv
+```
+3. Activate virtual environment 
+```
+$ . venv/bin/activate
+```
+4. Install requirements
+```
+$ pip install -r requirements.txt
+```
+5. Run Flask 
+```
+$ flask run
+```
 
 ## Host Name
 The excercise references the domain wiki-search.com so it will need to be added to the machine's hosts file
