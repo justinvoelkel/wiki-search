@@ -2,7 +2,7 @@
 This is a very small Flask application that can be used to retrieve links from wikipedia based on a given search term.
 
 ## Getting Started
-1. Pull this repository
+1. Clone this repository
 2. Create virtual environment
 ```
 $ python3 -m venv venv
